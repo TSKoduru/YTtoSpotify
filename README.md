@@ -1,5 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<!--> README template taken from    https://github.com/othneildrew/Best-README-Template/blob/master/README.md. -->
+<!-- README template taken from    https://github.com/othneildrew/Best-README-Template/blob/master/README.md. -->
 <a name= YTToSpotify></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -196,8 +196,6 @@ Project Link: [https://github.com/TSKoduru/YTToSpotify](https://github.com/TSKod
 [license-url]: https://github.com/TSKoduru/YTToSpotify/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tskoduru
-[product-screenshot]: images/screenshot.png
-
 
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
